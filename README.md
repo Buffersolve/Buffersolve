@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Volodymyr</h1>
-<h3 align="center">Android 🤖 developer from Ukraine</h3>
+<h1 align="center">Hi <img width="26" height="26" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" alt="Hand"/>, I'm Volodymyr</h1>
+
+<h3 align="center">Android <img width="20" height="20" src="https://img.icons8.com/fluency/256/android-os.png" alt="Android"/> developer from Ukraine</h3>
 
 <div align="center" id="badges">
   <a href="https://t.me/vl1eer">
@@ -17,14 +18,14 @@
   <img src="https://komarev.com/ghpvc/?username=Buffersolve&style=flat-square&color=blue" alt="GitHub view"/>
 </div>
 
-# Stack
-+ **Kotlin, Java**
+# <img width="26" height="26" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-skill-gig-economy-flaticons-lineal-color-flat-icons-2.png" alt="Android"/> Stack
++ **Kotlin <img width="14" height="14" src="https://img.icons8.com/color/256/kotlin.png" alt="Kotlin"/>, Java**
 + **JUnit, MockK**
 + **Clean Architecture, MVVM**
 + **Kotlin Coroutines && Flow**
 + **Dagger-Hilt**
 + **Room DataBase**
-+ **Retrofit2**
++ **Retrofit 2**
 + **Jetpack Compose**
 + **Android Architecture Components:**
   + *LiveData*
