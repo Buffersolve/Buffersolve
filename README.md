@@ -13,24 +13,26 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077b7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-</div>
-<div align="center" id="view">
-  <img src="https://komarev.com/ghpvc/?username=Buffersolve&style=flat-square&color=blue" alt="GitHub view"/>
-</div>
+<h3> 
+  <img width="22" height="22" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-skill-gig-economy-flaticons-lineal-color-flat-icons-2.png" alt="Android"/>
+  Stack:
+</h3>
 
-# <img width="26" height="26" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-skill-gig-economy-flaticons-lineal-color-flat-icons-2.png" alt="Android"/> Stack
-+ **Kotlin <img width="14" height="14" src="https://img.icons8.com/color/256/kotlin.png" alt="Kotlin"/>, Java**
-+ **JUnit, MockK**
-+ **Clean Architecture, MVVM**
-+ **Kotlin Coroutines && Flow**
-+ **Dagger-Hilt**
-+ **Room DataBase**
-+ **Retrofit 2**
-+ **Jetpack Compose**
-+ **Android Architecture Components:**
-  + *LiveData*
-  + *ViewModel*
-  + *Navigation*
-+ **Material Design 3**
-+ **SOLID & OOP`s principles**
-+ **GIT**
+<table align="center">
+  <tr>
+    <th>Tools</th>
+    <th>Android SDK</th>
+    <th>AAC</th>
+    <th>Principles</th>
+    <th>Architecture</th>
+    <th>Addition</th>
+  </tr>
+  <tr align="center">
+    <td>Kotlin<img width="14" height="14" src="https://img.icons8.com/color/256/kotlin.png" alt="Kotlin"/><br> Java<br> JUnit<br> MockK<br> Coroutines<br> Flow<br></td>
+    <td>Retrofit 2<br> Dagger-Hilt<br> Jetpack<br></td>
+    <td>LiveData<br> ViewModel<br> Room (+SQL)<br> Navigation<br></td>
+    <td>OOP<br> SOLID<br> Design<br> Patterns<br></td>
+    <td>Clean<br> MVVM<br></td>
+    <td>Git<br> Material<br> Design<br></td>
+  </tr>
+</table>
