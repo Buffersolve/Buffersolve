@@ -14,8 +14,8 @@
   </a>
   
 <h3> 
-  <img width="22" height="22" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-skill-gig-economy-flaticons-lineal-color-flat-icons-2.png" alt="Android"/>
-  Stack:
+  <img width="16" height="16" src=https://pngimg.com/uploads/lightning/lightning_PNG52.png alt="Android"/>
+   STACK:
 </h3>
 
 <table align="center">
