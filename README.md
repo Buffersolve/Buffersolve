@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img width="26" height="26" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" alt="Hand"/>, I'm Volodymyr</h1>
 
-<h3 align="center">Android <img width="20" height="20" src="https://img.icons8.com/fluency/256/android-os.png" alt="Android"/> developer from Ukraine</h3>
+<h3 align="center">Android developer <img width="24" height="24" src="https://i.ibb.co/rtRFKZY/icons8-android-os-96.png" alt="Android"/></h3>
 
 <div align="center" id="badges">
   <a href="https://t.me/vl1eer">
