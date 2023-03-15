@@ -9,7 +9,7 @@
   <a href="https://djinni.co/q/730df721bf/">
     <img src="https://t.ly/BRZrT" alt="Djinni Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/volodymyr-labish-58a054257">
+  <a href="https://www.linkedin.com/in/volodymyr-labish">
     <img src="https://img.shields.io/badge/LinkedIn-0077b7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
