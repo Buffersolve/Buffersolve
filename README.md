@@ -30,7 +30,7 @@
   <tr align="center">
     <td>Kotlin<img width="14" height="14" src="https://img.icons8.com/color/256/kotlin.png" alt="Kotlin"/><br> Java<br> JUnit<br> MockK<br> Coroutines<br> Flow<br></td>
     <td>Retrofit 2<br> Dagger-Hilt<br> Jetpack<br></td>
-    <td>LiveData<br> ViewModel<br> Room (+SQL)<br> Navigation<br></td>
+    <td>LiveData<br> ViewModel<br> Room<br> Navigation<br></td>
     <td>OOP<br> SOLID<br> Design<br> Patterns<br></td>
     <td>Clean<br> MVVM<br></td>
     <td>Git<br> Material<br> Design<br></td>
