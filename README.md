@@ -6,7 +6,7 @@
   <a href="https://t.me/vl1eer">
     <img src="https://img.shields.io/badge/Telegram-039be5?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://djinni.co/q/730df721bf/">
+  <a href="https://djinni.co/q/58ee14ab75/">
     <img src="https://t.ly/BRZrT" alt="Djinni Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/volodymyr-labish">
